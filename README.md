@@ -32,11 +32,9 @@ A robust REST API for managing tasks, built with Node.js, Express, TypeScript, a
 
 - **Backend**: Node.js, Express, TypeScript
 - **Database**: PostgreSQL
-- **Caching**: Redis
 - **Testing**: Jest with code coverage reporting
 - **Documentation**: Swagger/OpenAPI
 - **ORM**: Sequelize
-- **Environment**: Docker support
 
 
 ## Prerequisites
